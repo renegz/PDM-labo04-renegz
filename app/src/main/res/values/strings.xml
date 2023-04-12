@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio04Guzman</string>
+    <string name="save">Guardar</string>
+    <string name="hint_phone_number">Número de telefono</string>
+    <string name="hint_name">name</string>
+    <string name="hint_email">email</string>
+    <string name="text_rellenar">Rellena la siguiente informacion</string>
+</resources>
